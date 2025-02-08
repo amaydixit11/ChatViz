@@ -36,6 +36,7 @@ export default function AnalysisPage() {
       </div>
     )
   }
+  console.log(analysis)
 
   return (
     // <main className="relative min-h-screen bg-background text-foreground">

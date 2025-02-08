@@ -1,5 +1,4 @@
 import { create } from 'zustand'
-import type { ChatAnalysis } from '@/types' // Assuming you have your types in a types.ts file
 
 interface AnalysisStore {
   analysis: ChatAnalysis | null
